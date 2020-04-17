@@ -1,2 +1,3 @@
 # Cuda
-ODE batch solver 
+ODE batch solv
+New change. Hahahaha! 
